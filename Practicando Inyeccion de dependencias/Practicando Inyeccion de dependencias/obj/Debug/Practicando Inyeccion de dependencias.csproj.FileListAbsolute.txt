@@ -1,0 +1,7 @@
+D:\Mi ruta\Aprendiendo POO\Aprendiendo Inyeccion de Dependencias\Practicando Inyeccion de dependencias\Practicando Inyeccion de dependencias\bin\Debug\Practicando Inyeccion de dependencias.exe.config
+D:\Mi ruta\Aprendiendo POO\Aprendiendo Inyeccion de Dependencias\Practicando Inyeccion de dependencias\Practicando Inyeccion de dependencias\bin\Debug\Practicando Inyeccion de dependencias.exe
+D:\Mi ruta\Aprendiendo POO\Aprendiendo Inyeccion de Dependencias\Practicando Inyeccion de dependencias\Practicando Inyeccion de dependencias\bin\Debug\Practicando Inyeccion de dependencias.pdb
+D:\Mi ruta\Aprendiendo POO\Aprendiendo Inyeccion de Dependencias\Practicando Inyeccion de dependencias\Practicando Inyeccion de dependencias\obj\Debug\Practicando Inyeccion de dependencias.csproj.AssemblyReference.cache
+D:\Mi ruta\Aprendiendo POO\Aprendiendo Inyeccion de Dependencias\Practicando Inyeccion de dependencias\Practicando Inyeccion de dependencias\obj\Debug\Practicando Inyeccion de dependencias.csproj.CoreCompileInputs.cache
+D:\Mi ruta\Aprendiendo POO\Aprendiendo Inyeccion de Dependencias\Practicando Inyeccion de dependencias\Practicando Inyeccion de dependencias\obj\Debug\Practicando Inyeccion de dependencias.exe
+D:\Mi ruta\Aprendiendo POO\Aprendiendo Inyeccion de Dependencias\Practicando Inyeccion de dependencias\Practicando Inyeccion de dependencias\obj\Debug\Practicando Inyeccion de dependencias.pdb
