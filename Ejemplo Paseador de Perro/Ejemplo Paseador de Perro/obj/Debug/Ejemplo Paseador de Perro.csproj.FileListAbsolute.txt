@@ -1,0 +1,7 @@
+D:\Mi ruta\Aprendiendo POO\Aprendiendo Inyeccion de Dependencias\Ejemplo Paseador de Perro\Ejemplo Paseador de Perro\bin\Debug\Ejemplo Paseador de Perro.exe.config
+D:\Mi ruta\Aprendiendo POO\Aprendiendo Inyeccion de Dependencias\Ejemplo Paseador de Perro\Ejemplo Paseador de Perro\bin\Debug\Ejemplo Paseador de Perro.exe
+D:\Mi ruta\Aprendiendo POO\Aprendiendo Inyeccion de Dependencias\Ejemplo Paseador de Perro\Ejemplo Paseador de Perro\bin\Debug\Ejemplo Paseador de Perro.pdb
+D:\Mi ruta\Aprendiendo POO\Aprendiendo Inyeccion de Dependencias\Ejemplo Paseador de Perro\Ejemplo Paseador de Perro\obj\Debug\Ejemplo Paseador de Perro.csproj.AssemblyReference.cache
+D:\Mi ruta\Aprendiendo POO\Aprendiendo Inyeccion de Dependencias\Ejemplo Paseador de Perro\Ejemplo Paseador de Perro\obj\Debug\Ejemplo Paseador de Perro.csproj.CoreCompileInputs.cache
+D:\Mi ruta\Aprendiendo POO\Aprendiendo Inyeccion de Dependencias\Ejemplo Paseador de Perro\Ejemplo Paseador de Perro\obj\Debug\Ejemplo Paseador de Perro.exe
+D:\Mi ruta\Aprendiendo POO\Aprendiendo Inyeccion de Dependencias\Ejemplo Paseador de Perro\Ejemplo Paseador de Perro\obj\Debug\Ejemplo Paseador de Perro.pdb
